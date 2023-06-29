@@ -20,25 +20,16 @@
 
 
 ### 💻 Tools & Tech Stack:
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-
 <code><img height="30" src=./img/python.svg></code>
-<code><img height="30" src=./img/git.svg></code>
-<code><img height="30" src=./img/linux.svg></code>
-<code><img height="30" src=./img/mysql.svg></code>
-<code><img height="30" src=./img/numpy.svg></code>
-<code><img height="30" src=./img/pandas.svg></code>
 <code><img height="30" src=./img/pytorch.svg></code>
 <code><img height="30" src=./img/tensorflow.svg></code>
-<code><img height="30" src=./img/keras.svg></code>
+<code><img height="30" src=./img/numpy.svg></code>
+<code><img height="30" src=./img/pandas.svg></code>
 <code><img height="30" src=./img/scipy.svg></code>
-<code><img height="30" src=./img/r.svg></code>
+<code><img height="30" src=./img/mysql.svg></code>
+<code><img height="30" src=./img/linux.svg></code>
+<code><img height="30" src=./img/git.svg></code>
+
 
 
 
