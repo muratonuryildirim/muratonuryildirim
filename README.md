@@ -23,6 +23,7 @@
 
 
 ### 💻 Tools & Languages I use:
+<code><img height="35" src=./img/python.svg></code>
 <code><img height="35" src=./img/pytorch.svg></code>
 <code><img height="35" src=./img/tensorflow.svg></code>
 <code><img height="35" src=./img/numpy.svg></code>
