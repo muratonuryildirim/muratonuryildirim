@@ -19,7 +19,7 @@
 🌱 I’m also interested in EdgeAI and Condition Monitoring as side projects.<br>
 👯 I’m looking to collaborate on the topics above.<br>
 💬 Feel free to contact on muratonuryildirim@gmail.com<br>
-⚡ When I am free, I play basketball 🏀 and video games 🎮, Check out my [Valorant Stats](https://tracker.gg/valorant/profile/riot/Neuromancer%232222/overview?playlist=unrated&season=all). <br> 
+⚡ When I am free, I play basketball 🏀 and video games 🎮, Check out my [Valorant Stats](https://tracker.gg/valorant/profile/riot/Neuromancer%232222/overview?playlist=unrated&season=all) 😄 <br> 
 
 
 ### 💻 Tools & Languages I use:
