@@ -19,27 +19,30 @@
 ⚡ When I am free, I play basketball 🏀 and video games 🎮, Check out my [Valorant Stats](https://tracker.gg/valorant/profile/riot/Neuromancer%232222/overview?playlist=unrated&season=all). <br> 
 
 
-
-
-
 ### 💻 Tools & Tech Stack:
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+
+<code><img height="30" src=./img/python.svg></code>
+<code><img height="30" src=./img/git.svg></code>
+<code><img height="30" src=./img/linux.svg></code>
+<code><img height="30" src=./img/mysql.svg></code>
+<code><img height="30" src=./img/numpy.svg></code>
+<code><img height="30" src=./img/pandas.svg></code>
+<code><img height="30" src=./img/pytorch.svg></code>
+<code><img height="30" src=./img/tensorflow.svg></code>
+<code><img height="30" src=./img/keras.svg></code>
+<code><img height="30" src=./img/scipy.svg></code>
+<code><img height="30" src=./img/r.svg></code>
+
+
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=muratonuryildirim&icon=0&color=12)](https://visitcount.itsvg.in)
-
-
-[twitter]: https://twitter.com/monuryildirim
-[youtube]: https://youtube.com/monuryildirim
-[instagram]: https://instagram.com/muratonuryildirim
-[linkedin]: https://linkedin.com/in/muratonuryildirim
