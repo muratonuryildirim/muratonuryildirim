@@ -45,10 +45,9 @@
 
 ### 📕 Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Three Scenarios for Continual Learning](https://github.com/muratonuryildirim/muratonuryildirim/blob/master/blog/three_scenarios_CL.md)
-- [Chasing Sparsity in Vision Transformers: An End-to-End Exploration](https://github.com/muratonuryildirim/muratonuryildirim/blob/master/blog/Sparse_ViT.md)
-- [Learning Efficient Convolutional Networks through Network Slimming](https://github.com/muratonuryildirim/muratonuryildirim/blob/master/blog/net_slimming.md)
-- [How to Build a Career in AI](https://github.com/muratonuryildirim/muratonuryildirim/blob/master/blog/three_steps_for_AI_career.md)
+- [Task Difficulty Aware Parameter Allocation & Regularization for Lifelong Learning](https://github.com/muratonuryildirim/muratonuryildirim/blob/master/blog/PAR.md)
+- [Task-Free Continual Learning](https://github.com/muratonuryildirim/muratonuryildirim/blob/master/blog/Task_Free_CL.md)
+- [Adaptive Feature Consolidation](https://github.com/muratonuryildirim/muratonuryildirim/blob/master/blog/AFC.md)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more...](https://github.com/muratonuryildirim/muratonuryildirim/tree/master/blog)
