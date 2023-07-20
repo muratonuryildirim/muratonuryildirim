@@ -1,6 +1,6 @@
 # [WA - Maintaining Discrimination and Fairness in Class Incremental Learning](https://arxiv.org/abs/1911.07053)
 
-*Bowen Zhao, Xi Xiao, Guojun Gan, Bin Zhang, Shutao Xia. *CVPR 2020*
+*Bowen Zhao, Xi Xiao, Guojun Gan, Bin Zhang, Shutao Xia.* *CVPR 2020*
 
 **TL;DR:** WA corrects the bias towards the new classes in the classifier while learning the data sequentially 
 by aligning the weights of the classifier without any additional model or data cost. 
