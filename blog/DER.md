@@ -3,7 +3,7 @@
 *Shipeng Yan, Jiangwei Xie, Xuming He.* *CVPR 2021*
 
 **TL;DR:** DER uses a two-stage strategy for incremental learning: 
-In stage one, it learns a "super-feature" representation to adapt to new classes while preserving old knowledge . 
+In stage one, it learns a "super-feature" representation to adapt to new classes while preserving old knowledge. 
 In stage two, it combines all features coming from different tasks and classes together on a balanced training subset and fine-tunes the classifier to mitigate the problem of class imbalance.
 
 To handle the task of predicting class labels for both the old and new classes, DER builds a modular deep network. 
@@ -21,8 +21,8 @@ DER utilizes 3 different losses:
 - To learn feature-level masks and make the network as efficient as possible, a **Sparsity Loss**.
 - To dicriminate between all classes learned so far, a **Cross-Entropy (CE) Loss**.
 
-The first 2 Losses manages learning a compact new feature extractor and
-after updating the super-feature extractor with the newly learned features and applying pruning, 
+The first 2 Losses manages learning a compact new feature extractor.
+After updating the super-feature extractor with the recently learned features while applying pruning, 
 DER freezes the super-feature extractor and fine-tune the classifier on a balanced training subset with CE Loss.
 This fine-tuning step helps to mitigate the problem of class imbalance, which often arises in incremental learning scenarios when new classes have fewer samples compared to the previously learned classes. 
 By fine-tuning on a balanced subset, it ensures that the classifier can make accurate predictions for both old and new classes.
