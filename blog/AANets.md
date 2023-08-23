@@ -2,7 +2,7 @@
 
 *Yaoyao Liu, Bernt Schiele, Qianru Sun.* *CVPR 2021*
 
-**TL;DR:** "Adaptive Aggregation Networks" (AANets) incorporate two types of residual blocks, namely "stable blocks" and "plastic blocks," at each residual level, using ResNet as the base architecture. 
+**TL;DR:** Adaptive Aggregation Networks" (AANets) incorporate two types of residual blocks, namely "stable blocks" and "plastic blocks," at each residual level, using ResNet as the base architecture. 
 The feature maps from two parallel blocks are aggregated and passed on to the subsequent level blocks. 
 Aggregation weights dynamically balance the two types of blocks - stability and plasticity - during the network's operation.
 
