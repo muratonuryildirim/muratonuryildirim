@@ -1,4 +1,4 @@
-<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"> Hey, I am Onur! </h1>
+<h1> Hey, I am Onur! </h1>
 
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCVBJw1-QZ4bJPVffnQna9DA#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCVBJw1-QZ4bJPVffnQna9DA#gh-dark-mode-only)
