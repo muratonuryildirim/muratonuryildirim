@@ -15,11 +15,11 @@
 ### A little about me...
 
 📍 I'm a PhD Candidate at TU Eindhoven, AutoML group.<br>
-🔭 I’m focusing on Sparse Neural Networks, Continual Learning, and AutoML.<br>
+🔭 I’m focusing on Continual Learning, Sparse Neural Networks, and AutoML.<br>
 🌱 I’m also interested in EdgeAI and Condition Monitoring as side projects.<br>
 👯 I’m looking to collaborate on the topics above.<br>
 💬 Feel free to contact me at muratonuryildirim@gmail.com<br>
-⚡ When I am free, I play basketball 🏀 and video games 🎮, Check out my [Valorant Stats](https://tracker.gg/valorant/profile/riot/Neuromancer%232222/overview?playlist=unrated&season=all) 🤠 <br> 
+⚡ When I am free; I run :running: play basketball 🏀 and video games 🎮, Check out my [Valorant Stats](https://tracker.gg/valorant/profile/riot/Neuromancer%232222/overview?playlist=unrated&season=all) 🤠 <br> 
 
 
 ### 💻 Tools & Languages I use:
@@ -35,10 +35,9 @@
 
 ### 📚 Publications and Patents
 <!-- PUBLICATIONS:START -->
-- [Automated Machine Learning Approach in Material Discovery of Hole Selective Layers for Perovskite Solar Cells](https://onlinelibrary.wiley.com/doi/abs/10.1002/ente.202200980)
-- [Accident Prevention System for Rail Systems](https://www.researchgate.net/publication/370680149_Unfallverhutungssystem_fur_Schienensysteme)
-- [Predicting Perovskite Bandgap and Solar Cell Performance with Machine Learning](https://onlinelibrary.wiley.com/doi/abs/10.1002/solr.202100927)
-- [Comparison of Machine Learning Models on Performance of Single- and Dual-Type Electrochromic Devices](https://pubs.acs.org/doi/full/10.1021/acsomega.0c03048)
+- [FOCIL: Finetune-and-Freeze for Online Class-Incremental Learning](https://arxiv.org/abs/2403.14684)
+- [AdaCL: Adaptive Continual Learning](https://openreview.net/forum?id=n2it7xEaWQ)
+- [Continual Learning with Dynamic Sparse Training: Exploring Algorithms for Effective Model Updates](https://proceedings.mlr.press/v234/yildirim24a.html)
 <!-- PUBLICATIONS:END -->
 
 ➡️ [more...](https://scholar.google.com/citations?user=3NAjgx0AAAAJ&hl=tr&authuser=1)
@@ -54,8 +53,6 @@
 
 ### 📺 YouTube Videos
 <!-- YOUTUBE:START -->
-- []()
-- []()
 - []()
 <!-- YOUTUBE:END -->
 
